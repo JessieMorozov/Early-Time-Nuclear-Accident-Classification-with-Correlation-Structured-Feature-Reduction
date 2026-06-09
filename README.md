@@ -1,7 +1,5 @@
 # Early-Time-Nuclear-Accident-Classification-with-Correlation-Structured-Feature-Reduction
 
-# Early-Time Nuclear Accident Classification with Correlation-Structured Feature Reduction
-
 ## Overview
 
 This repository contains a reproducible machine-learning pipeline for early-time nuclear accident classification using the public Nuclear Power Plant Accident Data (NPPAD) dataset.
